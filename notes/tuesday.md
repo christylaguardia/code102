@@ -51,7 +51,11 @@ if (number = numberString) { ...}  this will be true
 
 
 can use console on any browser
-=======
+
+
+
+THESE NOTES ADDED DURING THE MERGE
+
 . period / dot
 , comma
 ! not / exclamation point / bang
